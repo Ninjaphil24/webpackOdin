@@ -1,6 +1,10 @@
 .hello {
     color: red;
-    background: url('./puddino.jpg');
-    background-size: 414px 276px;
-    background-repeat: no-repeat;
+    height: 240px;
+    width: 500px;   
+  }
+
+  .hello img {
+      height: 240px;
+      width: 415px
   }
